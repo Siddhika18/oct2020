@@ -6,8 +6,8 @@ void main()
  scanf("%d",&n);    
  while(i<=n)
  {    
-    fact*=i; 
-    i=i+1;
+    fact=fact*i; 
+    i+=1;
  }    
   printf("Factorial of number %d is: %d",n,fact);    
 }   
