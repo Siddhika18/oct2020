@@ -7,7 +7,7 @@ void main()
  while(i<=n)
  {    
     fact=fact*i; 
-    i=i+1;
+    i+=1;
  }    
   printf("Factorial of number %d is: %d",n,fact);    
 }   
