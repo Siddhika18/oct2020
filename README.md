@@ -1,3 +1,3 @@
-# oct2022
+# October Halloween 2022
 HACKTOBERFEST
-Code
+Code 2022
