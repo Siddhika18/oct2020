@@ -2,7 +2,7 @@
 void main()    
 {    
  int i=1,n,fact=1;    
- printf("Input number to find its factorial: ");    
+ printf("Enter number to find its factorial: ");    
  scanf("%d",&n);    
  while(i<=n)
  {    
@@ -10,4 +10,4 @@ void main()
     i+=1;
  }    
   printf("Factorial of number %d is: %d",n,fact);    
-}   
+}
