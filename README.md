@@ -1,4 +1,7 @@
-# October 2025
-# Prgramming Language: C
-HACKTOBERFEST 2025
-Code 2025
+# C Language
+
+## About
+Contains industry-level C code.
+One of the top programming languages.
+
+*October 2025*
